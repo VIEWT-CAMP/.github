@@ -28,7 +28,3 @@
 - FE &nbsp;[조병윤](https://github.com/chobyhh)
 - BE &nbsp;[김원희](https://github.com/wonhee418)
 - BE &nbsp;[김태현](https://github.com/taetoo)
-
-
-
-
