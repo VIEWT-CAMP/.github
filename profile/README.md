@@ -1,7 +1,6 @@
-# 👥&nbsp;&nbsp;화상 면접 스터디 서비스 뷰트캠프
-<p align="center">
-  <img src="https://drive.google.com/file/d/1UldSp4nVGieIHtqLGamJSKhwjGTNRokU/view?usp=sharing", height="100x", width="100px">
-</p>
+# 👥 화상 면접 스터디 서비스 뷰트캠프
+
+<img src = "https://user-images.githubusercontent.com/101050600/170824404-8f76107c-9169-49c9-90ca-3a16bc4fb407.png">
 
 
 - [서비스 뷰트캠프](https://www.viewtcamp.com)
