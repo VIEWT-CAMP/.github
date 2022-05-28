@@ -24,10 +24,10 @@
 
 # 🧑🏻‍💻 Team VIEWTCAMP  
 
-- [김현진](https://github.com/guswls1419) FE
-- [조병윤](https://github.com/chobyhh) FE
-- [김원희](https://github.com/wonhee418) BE
-- [김태현](https://github.com/taetoo) BE
+- FE &nbsp;[김현진](https://github.com/guswls1419) 
+- FE &nbsp;[조병윤](https://github.com/chobyhh)
+- BE &nbsp;[김원희](https://github.com/wonhee418)
+- BE &nbsp;[김태현](https://github.com/taetoo)
 
 
 
