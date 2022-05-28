@@ -10,14 +10,18 @@
 
 ---
 
-# ⭐️ 핵심 기능 소개
+# ⭐️ 기능 소개
 
-- [핵심 기능](https://github.com/VIEWT-CAMP/.github/wiki/%ED%95%B5%EC%8B%AC-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C
-)  
+- [전체 기능](https://github.com/VIEWT-CAMP/.github/wiki/%EC%A0%84%EC%B2%B4-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C) 
+ 
+- [핵심 기능](https://github.com/VIEWT-CAMP/.github/wiki/%ED%95%B5%EC%8B%AC-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C)  
 
 |**실시간 화상**|**실시간 채팅**|**방장 권한**|**팔로우 기능**|
 |:---:|:---:|:---:|:---:|
-|gif|gif|gif|gif|
+|gif|gif|gif|gif|   
+
+
+
 
 
 ---
