@@ -34,7 +34,7 @@ height="400px">
 
 # 🧑🏻‍💻 Team VIEWTCAMP  
 
-- <p dir="auto"><a href="https://github.com/guswls1419"><img width="100" src="https://img.shields.io/badge/React-%EA%B9%80%ED%98%84%EC%A7%84-yellow"       style="max-width: 100%;"></a></p>
-- <p dir="auto"><a href="https://github.com/chobyhh"><img width="100" src="https://img.shields.io/badge/React-%EC%A1%B0%EB%B3%91%EC%9C%A4-blue"             style="max-width: 100%;"></a></p>
-- <p dir="auto"><a href="https://github.com/wonhee418"><img width="100" src="https://img.shields.io/badge/Spring-%EA%B9%80%EC%9B%90%ED%9D%AC-red"           style="max-width: 100%;"></a></p>
-- <p dir="auto"><a href="https://github.com/taetoo"><img width="100" src="https://img.shields.io/badge/Spring-%EA%B9%80%ED%83%9C%ED%98%84-brightgreen"     style="max-width: 100%;"></a></p>
+<p dir="auto"><a href="https://github.com/guswls1419"><img width="100" src="https://img.shields.io/badge/React-%EA%B9%80%ED%98%84%EC%A7%84-yellow" style="max-width: 100%;"></a></p>
+<p dir="auto"><a href="https://github.com/chobyhh"><img width="100" src="https://img.shields.io/badge/React-%EC%A1%B0%EB%B3%91%EC%9C%A4-blue"     style="max-width: 100%;"></a></p>
+<p dir="auto"><a href="https://github.com/wonhee418"><img width="100" src="https://img.shields.io/badge/Spring-%EA%B9%80%EC%9B%90%ED%9D%AC-red"   style="max-width: 100%;"></a></p>
+<p dir="auto"><a href="https://github.com/taetoo"><img width="100" src="https://img.shields.io/badge/Spring-%EA%B9%80%ED%83%9C%ED%98%84-brightgreen" style="max-width: 100%;"></a></p>
