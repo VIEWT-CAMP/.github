@@ -28,7 +28,7 @@
 ---
 # 🏗 아키텍처
 
-- [트러블 슈팅](https://github.com/VIEWT-CAMP/.github/wiki/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98)
+- [아키텍처 설명](https://github.com/VIEWT-CAMP/.github/wiki/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98)
 
 <img src = "https://user-images.githubusercontent.com/101050600/170838024-f4100e72-0dc1-4441-8740-29a8b50cf186.png" width="700px" 
 height="400px">
@@ -38,7 +38,7 @@ height="400px">
 ---
 # 🤾🏻‍♂️ 트러블 슈팅
 
-- [아키텍처 설명](https://github.com/VIEWT-CAMP/.github/wiki/%ED%8A%B8%EB%9F%AC%EB%B8%94%EC%8A%88%ED%8C%85)
+- [트러블 슈팅](https://github.com/VIEWT-CAMP/.github/wiki/%ED%8A%B8%EB%9F%AC%EB%B8%94%EC%8A%88%ED%8C%85)
 
 ---
 
