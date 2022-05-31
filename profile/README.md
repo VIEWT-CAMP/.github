@@ -30,7 +30,7 @@
 
 - [아키텍처 설명](https://github.com/VIEWT-CAMP/.github/wiki/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98)
 
-<img src = "https://user-images.githubusercontent.com/101050600/171106917-8a3375a4-ac6e-4723-b027-6536d2faa174.png" width="700px" 
+<img src = "https://user-images.githubusercontent.com/101050600/171107224-62162618-4b67-42cd-ab61-f79c4905d6fc.png" width="700px" 
 height="400px">
 
 
