@@ -6,6 +6,7 @@
 - [서비스 소개](https://github.com/VIEWT-CAMP/.github/wiki/%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%B7%B0%ED%8A%B8%EC%BA%A0%ED%94%84-%EC%86%8C%EA%B0%9C)
 - [뷰트캠프 바로가기](https://www.viewtcamp.com)
 - [팀 뷰트캠프 노션](https://www.notion.so/viewtcamp/91f8238a76ab4d8790223c88a79e7e13)
+- [뷰트캠프 발표영상](https://youtu.be/meB0Fu04FIU)
 </br>
 
 ---
